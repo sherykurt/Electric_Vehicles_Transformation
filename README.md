@@ -1,11 +1,11 @@
 # Electric Vehicles (EVs) Transformation
----------
+
 ## Goal
---------
+
 Predict future demand for Electric Vehicles (EVs) and public access EVs charging stations at zipcode level in NY state. 
 
 ## Current Problem 
--------
+
 Even though the EVs market is increasing due to the tendency of green energy, the infrastructure to fully tranform to EVs is insufficient. This causes range anxiety meaning that people are worried about how far they can travel in an electrical car before its charge is out. 
 This project will attempt to address the insufficiency of charging station by predicting how many charging stations required to be installed in each zipcode in NY. The project will provide following information,
 
@@ -15,7 +15,7 @@ This project will attempt to address the insufficiency of charging station by pr
 * Prediction of EVs charging stations 
 
 ## Executive Summary
-------
+
 EVs Tranform is a project that predicts the EVs market and potential charging stations for users (such as state, car companies, and electric companies for installing EV infrastructe) to accelerate the use of EVs.
 
 The main steps involve in the project were;
@@ -28,7 +28,7 @@ The main steps involve in the project were;
    4. Creating Choropleth mapping at the zipcode level to show these actuals and predicted values for the year of 2020. 
 
 ## Technologies Used
---------
+
 * Python
 * Pandas
 * Matplotlib
