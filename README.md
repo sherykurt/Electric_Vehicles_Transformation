@@ -10,6 +10,7 @@ Even though the EVs market is increasing due to the tendency of green energy, th
 This project will attempt to address the insufficiency of charging station by predicting how many charging stations required to be installed in each zipcode in NY. The project will provide following information,
 
 * Current EVs on route
+![EV Charging Station Count Each Year in NY](https://user-images.githubusercontent.com/77508831/172192207-a68f9848-d442-4ef7-ae4e-cf818c4e13ed.png)
 * Current EVs charging stations
 * Prediction of EVs
 * Prediction of EVs charging stations 
