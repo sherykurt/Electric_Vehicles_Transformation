@@ -2,7 +2,7 @@
 
 ## Goal
 
-Predict future demand for Electric Vehicles (EVs) and public access EVs charging stations at zipcode level in NY state. 
+Predict future demand for Electric Vehicles (EVs) and public access EVs charging stations at zip code level in NY state. 
 
 ## Current Problem 
 
@@ -46,5 +46,3 @@ The main steps involve in the project were;
 * Geocoder to get lats/longs of addresses
 * SKLearn pipelines
 * Altair -- Chropleth Mapping, plotting
-
-
