@@ -7,7 +7,8 @@ Predict future demand for Electric Vehicles (EVs) and public access EVs charging
 ## Current Problem 
 
 Even though the EVs market is increasing due to the tendency of green energy, the infrastructure to fully tranform to EVs is insufficient. This causes range anxiety meaning that people are worried about how far they can travel in an electrical car before its charge is out. 
-This project will attempt to address the insufficiency of charging station by predicting how many charging stations required to be installed in each zipcode in NY. In 2020, the total EVs The project provides following information,
+This project attempts to address the insufficiency of charging stations by predicting how many charging stations are required to be installed in each zip code in NY. Up to 2020 in the data, the total registered EVs was about 100K, and charging stations were about 3K in NY state meaning 3 charging stations per 100 EVs. The project provides the following information.
+
 
 > Current EVs on route
 ![Registered EV count each Year in NY state](https://user-images.githubusercontent.com/77508831/172192476-5099d33b-edd2-4b35-a7b4-3161953ec4fa.png)
