@@ -45,4 +45,4 @@ The main steps involve in the project were;
 * Matplotlib
 * Geocoder to get lats/longs of addresses
 * SKLearn pipelines
-* Altair -- Chropleth Mapping, plotting
+* Altair -- Choropleth Mapping, plotting
